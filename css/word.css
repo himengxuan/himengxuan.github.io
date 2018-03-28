@@ -1,17 +1,15 @@
-﻿@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
-
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
 body {
-     fornt-fmaily: "Noto Sans", "Noto Sans TC";
+     font-family: "Noto Sans", "Noto Sans TC";
 }
 	 
 h1 {
    font-family: "Noto Sans TC";
-   text-transfrom: none;
+   text-transform: none;
    line-height: Grem;
 } 
 
 .subheading {
    font-family: "Noto Sans TC";
-   text-transfrom: none;
+   text-transform: none;
    margin-top: 1rem;
-}
