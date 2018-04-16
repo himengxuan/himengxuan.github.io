@@ -34,11 +34,11 @@ h2{
 }
 
 .list-social-icons a{
-	color:#495057
+	color:#00DDAA
 }
 
 .list-social-icons a:hover{
-	color:#bd5d38
+	color:#00DDAA
 }
 
 .list-social-icons a .fa-lg{
@@ -50,7 +50,7 @@ h2{
 }
 
 .list-icons .list-inline-item i:hover{
-	color:#bd5d38
+	color:#00DDAA
 }
 
 #sideNav .navbar-nav .nav-item .nav-link{
