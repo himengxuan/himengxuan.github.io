@@ -1,7 +1,7 @@
 body{
 	font-family:'Open Sans',serif;
 	padding-top:54px;
-	color:#00AAAA
+	color:#FFA488
 }
 	
 @media (min-width:992px){
@@ -14,7 +14,7 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family:'Saira Extra Condensed',serif;font-weight:700;
 	text-transform:uppercase;
-	color:#00AAAA
+	color:#FFA488
 }
 
 h1{
@@ -135,7 +135,7 @@ section.resume-section .resume-item .resume-date{
 }
 
 .text-primary{
-	color:#00AAAA!important
+	color:#FFA488!important
 }
 
 a{
