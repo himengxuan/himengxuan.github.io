@@ -1,7 +1,7 @@
 body{
 	font-family:'Open Sans',serif;
 	padding-top:54px;
-	color:#FFA488
+	color:#FF7744
 }
 	
 @media (min-width:992px){
@@ -14,7 +14,7 @@ body{
 h1,h2,h3,h4,h5,h6{
 	font-family:'Saira Extra Condensed',serif;font-weight:700;
 	text-transform:uppercase;
-	color:#FFA488
+	color:#FF8800
 }
 
 h1{
@@ -38,7 +38,7 @@ h2{
 }
 
 .list-social-icons a:hover{
-	color:#33CCFF
+	color:#FFB7DD
 }
 
 .list-social-icons a .fa-lg{
@@ -50,7 +50,7 @@ h2{
 }
 
 .list-icons .list-inline-item i:hover{
-	color:#33CCFF
+	color:#99FF99
 }
 
 #sideNav .navbar-nav .nav-item .nav-link{
