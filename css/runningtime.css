@@ -1,0 +1,17 @@
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 15px;
+  line-height: 30px;
+  color: white;
+}
+
+.photoshop {width: 80%; background-color: #42b5e6;}
+.html {width: 60%; background-color: #62ce58;}
+.css {width: 50%; background-color: #f992c1;}
