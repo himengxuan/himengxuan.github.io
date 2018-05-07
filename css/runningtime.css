@@ -1,11 +1,11 @@
 * {box-sizing: border-box}
 
-.container {
+.sk_container {
   width: 100%;
   background-color: #ddd;
 }
 
-.skills {
+.sk_strength {
   text-align: right;
   padding-right: 15px;
   line-height: 30px;
